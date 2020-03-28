@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.hanyang</groupId>
 	<artifactId>tinyse</artifactId>
-	<version>2019.stage_1.build_1</version>
+	<version>build_1</version>
 	<name>Tiny Search Engine</name>
 	<description>Minimal search engine for IR class (instructed by Prof. Younghoon Kim,  Hanyang Univ. ERICA)</description>
 	<dependencies>
@@ -98,7 +98,7 @@
 					<executable>java</executable>
 					<arguments>
 						<argument>-classpath</argument>
-						<argument>target/tinyse-2019.stage_1.build_1.jar</argument>
+						<argument>target/tinyse-build_1.jar</argument>
 						<argument>edu.hanyang.indexer.ExternalSort</argument>
 					</arguments>
 				</configuration>
